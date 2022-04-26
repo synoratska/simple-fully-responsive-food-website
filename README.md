@@ -10,7 +10,7 @@ Open navbar by clicking lamp on the top left corner :)
 
 [Simple Fully Responsive Food Website]
 
-[![template.png](https://i.postimg.cc/ht8286Lf/image.png)](https://postimg.cc/3kRjYLbT)
+[![image.png](https://i.postimg.cc/ht8286Lf/image.png)](https://postimg.cc/3kRjYLbT)
 
 
 
